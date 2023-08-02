@@ -80,3 +80,7 @@ About the Dataset
 * **YrSold**: Year Sold
 * **SaleType**: Type of sale
 * **SaleCondition**: Condition of sale
+
+
+https://github.com/rohithreddy09/House-Price-Prediction-/assets/100276681/4716f07e-d9e3-4ca7-9904-f5940e8a5bad
+
